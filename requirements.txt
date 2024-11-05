@@ -1,0 +1,16 @@
+# Google Cloud libraries
+google-cloud-storage
+google-cloud-bigquery
+
+# YAML processing library
+pyyaml
+
+# Additional libraries
+db-dtypes
+openpyxl
+xlrd
+gcsfs
+fsspec
+pandas-gbq
+pyyaml
+openpyxl
